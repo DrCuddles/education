@@ -1,0 +1,17 @@
+#container {
+
+}
+
+#header {
+  text-align: center;
+  background-color: blue;
+  color: green;
+}
+
+a {
+  color: orange;
+}
+
+#description {
+  color: blue;
+}
